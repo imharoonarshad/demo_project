@@ -31,7 +31,7 @@ const ConvertToPdf = () => {
     {
       img: TxtPdf,
       text: "use the best online tool to edit PDFs in your browser",
-      heading: "TXT to PDF",
+      heading: "TXT to PDF ",
     },
   ];
 
